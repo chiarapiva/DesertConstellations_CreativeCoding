@@ -64,7 +64,7 @@ We use `mousewheel(event)` to control the mouse wheel rotation:
 ```
 #### Function mouseIsPressed
 The user can compare the deserts in each moment by pressing everywhere in the canvas. 
-![information](https://github.com/ginevraterenghi/DesertConstellations/blob/master/README%20Images%20Folder/Cover.jpg)
+![information](https://github.com/ginevraterenghi/DesertConstellations_CreativeCoding/blob/master/ReadMe_Images/Cover.jpg)
 ```
 	if (mouseIsPressed) {
 		fill('#c1f4f3');
